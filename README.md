@@ -1,1 +1,33 @@
 # A2.2_LDA_y_Arboles_de_Decision
+
+En este proyecto se pretende evaluar distintos modelos para encontrar el adecuado capaz de diferenciar entre clases en un contexto médico. Para este caso, se realiza la clasificación de pacientes o saludable un contexto de riesgo de cancer de mama obtenidos de este [enlace](https://www.semanticscholar.org/paper/Using-Resistin%2C-glucose%2C-age-and-BMI-to-predict-the-Patr%C3%ADcio-Pereira/0861bd9c3acf6504ce142517c4e05bf8f564f32a). Para lograr esto, se tomó información en el [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/451/breast+cancer+coimbra) en donde se encuentra información para 116 personas, con 10 variables predictoras en total. Esta base de datos se encuentra en el documento con el nombre "dataR2.csv".
+
+La base de datos cuenta con la siguiente información:
+
+•Age: Edad en años
+
+•BMI: Índice de Masa Corporal (kg/m²)
+
+•Glucose: Nivel de glucosa en sangre (mg/dL)
+
+•Insulin: Nivel de insulina en sangre (μU/mL)
+
+•HOMA: Índice de evaluación del modelo homeostático (medida de resistencia a la insulina)
+
+•Leptin: Nivel de leptina en sangre (ng/mL)
+
+•Adiponectin: Nivel de adiponectina en sangre (μg/mL)
+
+•Resistin: Nivel de resistina en sangre (ng/mL)
+
+•MCP.1: Proteína quimioatrayente de monocitos 1 (pg/mL
+
+•Classification: Clasificación (1 = Saludable, 2 = Paciente con condición)
+
+Este proyecto incluye los siguientes documentos:
+
+• [Reporte en formato ipynb](A2.2608994.ipynb)
+
+• [Reporte en formato html](A2.2608994.html)
+
+• [Base de de datos](dataR2.csv)
